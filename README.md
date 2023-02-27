@@ -32,19 +32,19 @@ https://user-images.githubusercontent.com/74619382/221636112-1fe34f2b-fd26-4ef0-
 
 1. SakasaM.exe をダブルクリックすると, 最初にスタート画面が表示されます.  
   桁数を選択することで, 提示される数系列の数を指定できます.  
-![スタート画面](./Documents/assets/StartViewImage.png)  
+![StartViewImage](https://user-images.githubusercontent.com/74619382/221679392-a32dfe87-fa81-4842-9cf2-37d78b550f30.png)
 
 2. スタートボタンを押すと出題画面が表示され, 1桁ずつ数系列が提示されます.  
   順番通りに覚えていきましょう.  
-![スタート画面](./Documents/assets/QuestionViewImage.png)  
+![QuestionViewImage](https://user-images.githubusercontent.com/74619382/221679477-be9c321d-be7f-406d-b344-9e914ae6808b.png)
 
 3. 指定した桁数分の数系列が提示されると, 解答画面が表示されます.  
   ここで, 先ほど覚えた数系列を**逆順に**1桁ずつ答えていきます.  
-![スタート画面](./Documents/assets/AnswerViewImage.png)  
+![AnswerViewImage](https://user-images.githubusercontent.com/74619382/221679523-6af15d37-2e43-49a3-91a1-18ecbc2034cd.png)
 
 4. 解答画面で全問正解、もしくは間違えるとその時点で結果画面が表示されます。  
   「もう一度」をクリックするとスタート画面に戻り, 「終了」をクリックするとアプリが閉じます.  
-![スタート画面](./Documents/assets/ResultViewImage.png)
+![ResultViewImage](https://user-images.githubusercontent.com/74619382/221679615-8a6defe6-2ea8-4883-b015-8325f1939e19.png)
 
 ## 追加予定の機能
 
