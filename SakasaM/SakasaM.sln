@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SakasaM.WinForm", "SakasaM.WinForm\SakasaM.WinForm.csproj", "{2306562F-CF52-4A22-B5B5-5FA302A20F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SakasaM.Domain", "SakasaM.Domain\SakasaM.Domain.csproj", "{60DBD05F-E9DB-47C6-853A-653752060A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2306562F-CF52-4A22-B5B5-5FA302A20F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2306562F-CF52-4A22-B5B5-5FA302A20F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2306562F-CF52-4A22-B5B5-5FA302A20F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2306562F-CF52-4A22-B5B5-5FA302A20F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60DBD05F-E9DB-47C6-853A-653752060A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DBD05F-E9DB-47C6-853A-653752060A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DBD05F-E9DB-47C6-853A-653752060A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DBD05F-E9DB-47C6-853A-653752060A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {456E38E4-2DED-4B28-9464-151CAD1771FB}
+	EndGlobalSection
+EndGlobal
