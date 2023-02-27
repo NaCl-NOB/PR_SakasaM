@@ -351,3 +351,6 @@ MigrationBackup/
 
 # リリースバージョン管理
 ReleaseStoring/
+
+# ドキュメント
+Documents/

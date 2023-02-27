@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/74619382/221636112-1fe34f2b-fd26-4ef0-
 
 ## インストール及び起動方法
 
-1. [Releases](https://google.com) からダウンロードした SakasaM_(バージョン).zip を展開してください.
+1. [Releases](https://github.com/NaCl-NOB/PR_SakasaM/releases) からダウンロードした SakasaM_(バージョン).zip を展開してください.
 
 2. フォルダ内にある SakasaM.exe をダブルクリックして起動してください.
 
